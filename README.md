@@ -85,6 +85,6 @@ Give a ⭐️ if this project helped you!
 ## 👤 Author
 
 **hala dayyeh**
-- GitHub: [@yourusername](https://github.com/haladayyeh)
+- GitHub: [@haladayyeh](https://github.com/haladayyeh)
 
 Made with ❤️ and C++
